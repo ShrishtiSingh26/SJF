@@ -15,10 +15,13 @@ Every extracted fact is strictly grounded in a **verbatim quote and page number*
 
 Nothing is hard-coded to starter datasets: the schema, categories, and relationships all emerge dynamically from whatever PDFs you upload.
 
+## Video Demo
+Link: https://drive.google.com/file/d/1wf3DLIXqjot-IWxHgSOo9SN9qyQHOIUd/view?usp=sharing
 <div align="center">
-<a href="....">
-  <img src="..." width="720" alt="Demo video" />
-  <br/>
+  <a href="https://drive.google.com/file/d/1wf3DLIXqjot-IWxHgSOo9SN9qyQHOIUd/view?usp=sharing">
+    <img src="https://github.com/user-attachments/assets/d122ae1d-f7eb-440a-b2cb-774986a42c21" width="720" alt="Demo video" />
+  </a>
+</div>
   
 </a>
 </div>
@@ -56,6 +59,14 @@ uvicorn backend.main:app --reload --host 0.0.0.0 --port 8000
 ---
 
 ## The Four Required Cases (Screenshots)
+
+
+<img width="1917" height="911" alt="Screenshot 2026-09-09 024308" src="https://github.com/user-attachments/assets/e8875db2-dafe-49c6-9626-d882a07a26cf" />
+<img width="1917" height="901" alt="Screenshot 2026-09-09 024323" src="https://github.com/user-attachments/assets/788f1f4b-d1c2-44f2-8398-a0d89ed31369" />
+<img width="1917" height="902" alt="Screenshot 2026-09-09 024330" src="https://github.com/user-attachments/assets/a08d34af-94c0-4f63-86af-8a05d495dac0" />
+<img width="1916" height="902" alt="Screenshot 2026-09-09 024338" src="https://github.com/user-attachments/assets/3da3887a-71c8-4665-a538-50ffb89e6ed4" />
+<img width="1917" height="896" alt="Screenshot 2026-09-09 024346" src="https://github.com/user-attachments/assets/166b187f-0d25-4bab-9478-d94b3ba00d21" />
+<img width="1917" height="903" alt="Screenshot 2026-09-09 024353" src="https://github.com/user-attachments/assets/5cbcd926-31cb-4a28-8499-062dfa5768ba" />
 
 
 ---
