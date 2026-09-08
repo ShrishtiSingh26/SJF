@@ -1,0 +1,67 @@
+# Environment variables & secrets
+.env
+.env.*
+!.env.example
+.venv/
+
+# Database & Local Storage / Uploads
+*.sqlite
+*.sqlite3
+*.db
+knowledge.sqlite3
+uploads/*
+!uploads/.gitkeep
+scratch/
+.pytest_cache/
+tests/
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Testing & Lint Caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.coverage.*
+
+# IDEs & Code Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Operating System
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs & Temporary files
+*.log
+*.tmp
+*.temp
